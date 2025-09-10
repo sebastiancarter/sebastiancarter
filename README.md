@@ -14,6 +14,6 @@
 - c++
 - c
 - javascript (most recently node and react)
+- typescript
 - html (mostly html5)
 - scala
-
